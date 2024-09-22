@@ -1,7 +1,7 @@
 Вас ис дас, натюрлихь?
 ----------------------
-rudostup.apk - Дистрибутив установки приложения RuDostup на андройд
-RuDostup - VPN для обхода блокировки YouTube, Facebook, Instagram, WeChat, LINE
+- rudostup.apk - Дистрибутив установки приложения RuDostup на андройд
+- RuDostup - VPN для обхода блокировки YouTube, Facebook, Instagram, WeChat, LINE
 
 Безопасность
 -------------
